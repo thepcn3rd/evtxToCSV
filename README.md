@@ -1,0 +1,1 @@
+This repo was created due to needing to take a EVTX file and convert it on linux to a CSV or XML.  I used the following project and then expanded on it... https://github.com/williballenthin/python-evtx
